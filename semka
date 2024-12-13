@@ -1,0 +1,29 @@
+<html>
+<title> Искуство и культура </title>
+<body style="background-color: Lime">
+   <header style="background-color: 
+AliceBlue"> 
+ <h1 style="text-align:center;font-size: 100px;color: Black"> Искуство и культура  </h1>
+  <p style="font-size: 50px" > Задумывались ли вы что такое искуство и культура</p>
+  <p style="font-size: 50px">Разберёмся </p>
+ <p style="font-size: 50px"> Современное распространенное понятие культуры слагается из жизненных духовных ценностей, общепринятых норм поведения и совокупности артефактов (предметов материальных)</p>
+<p style="font-size: 50px"> Искусство, - понятие, больше относящееся к умениям, человека, однако таким, которые способны вызвать восхищение окружающих </p>
+</header>
+<main>
+<h2 style="text-align:center;font-size: 90px;color: Black"> Составим топ музеев по Рыбинску </h2>
+<p style="text-align:center;font-size: 50px;color: Black"> 1. Рыбинский Историко-Архитектурный и Художественный Музей-Заповедник<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/33/42/1a/photo0jpg.jpg?w=900&h=500&s=1" height="250px"/></p>
+<p style="text-align:center;font-size: 50px;color: Black">2. Музей Советская Эпоха<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/70/11/d5/caption.jpg?w=900&h=500&s=1" height="250px"/></p>
+<p style="text-align:center;font-size: 50px;color: Black">3. Рыбинский музей адмирала Ф.Ф. Ушакова<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/09/12/00/caption.jpg?w=900&h=500&s=1" height="250px"/></p>
+<p style="text-align:center;font-size: 50px;color: Black">4. Музейно-выставочный комплекс Нобели и нобелевское движение<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/be/84/e8/caption.jpg?w=900&h=500&s=1" height="250px"/></p>
+<p style="text-align:center;font-size: 50px;color: Black">5. Музей Рыбинские рыбы<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/fa/ad/5e/caption.jpg?w=900&h=500&s=1" height="250px"/></p>
+<p style="text-align:center;font-size: 50px;color: Black">6. Музей Верхневолжских ГЭС<img src="https://live.staticflickr.com/65535/50817810583_3c127f578b_o.jpg" height="250px"/></p>
+<p style="text-align:center;font-size: 50px;color: Black">7. Мемориальный Дом-Музей Академика А. А. Ухтомского<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/58/64/23/caption.jpg?w=800&h=400&s=1" height="250px"/></p>
+<p style="text-align:center;font-size: 50px;color: Black">8. Музей Мологского Kрая<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/b0/44/2f/caption.jpg?w=900&h=500&s=1" height="250px"/></p>  
+<p style="text-align:center;font-size: 50px;color: Black">9. Музей фортепиано Алексея Ставицкого<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/38/bb/18/1805-1975-steinway-sons.jpg?w=900&h=-1&s=1" height="250px"/></p>  
+<p style="text-align:center;font-size: 50px;color: Black">10. Музей Затопленные Святыни Мологского Края<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/70/e4/38/caption.jpg?w=900&h=500&s=1" height="250px"/></p> 
+</main>
+<footer style="background-color: red">
+<a href="https://www.tripadvisor.ru/Attractions-g294459-Activities-c49-Russia.html">Сайт с топом музеев в России</a>
+</footer>
+</body>
+</html>
